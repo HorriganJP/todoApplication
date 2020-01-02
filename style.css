@@ -1,0 +1,176 @@
+.titleDiv {
+  text-align: center; 
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 0px;
+}
+.titleIcon {
+    float: left;
+    padding-top: 9px;
+    color: white;
+    padding-left: 5%;
+    margin: 0px;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    margin: 0px;
+    background-color: white;
+}
+
+p {
+    margin: 10px;
+}
+
+.titleDiv {
+    background-color: #f3d5d5;
+    color: white;
+    margin: 0px;
+    padding-right: 5%;
+}
+
+.title {
+    text-align: center;
+    width: auto;
+    padding-right: 60px;
+    margin: 0px;
+    padding: 10px;
+}
+
+.formsDiv {
+    width: 100%;
+    background-color: white;
+    margin: 0px
+}
+
+.one {
+    float: left;
+    margin-left: 10%;
+}
+
+.two {
+    display: inline-block;
+}
+
+.three {
+    float: right;
+    margin-right: 10%;
+    margin-top: 10px;
+}
+
+.formButton {
+    background-color: #f3d5d5;
+    border-radius: 5px;
+    border: 0px;
+    padding: 4px, 4px, 4px, 4px;
+    color: white;
+}
+
+.formButton:hover {
+    background-color: #db9d9d;
+    border-radius: 5px;
+    border: 0px;
+    padding: 10px, 10px, 10px, 10px;
+}
+
+.form1 {
+    box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	outline: none;
+	display: block;
+	width: 100%;
+	padding: 7px;
+	border: none;
+	border-bottom: 1px solid #ddd;
+	background: transparent;
+	margin-bottom: 10px;
+}
+
+#formInput {
+    box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	outline: none;
+	display: block;
+	width: 100%;
+	padding: 7px;
+	border: none;
+	border-bottom: 1px solid #ddd;
+	background: transparent;
+	margin-bottom: 10px;
+}
+
+.total {
+    margin-bottom: 10px;
+    color: #f3d5d5;
+    font-size: 10px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+	background: transparent;
+}
+
+#todos {
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+	-moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+	-webkit-box-shadow:  0px 0px 15px rgba(0, 0, 0, 0.22);
+}
+
+.page-footer {
+    margin-top: 40px;
+    background-color: #f3d5d5;
+    height: 100%;
+    padding-bottom: 40px;
+}
+
+.text {
+    padding-bottom: 10px;
+    margin: 0px;
+    color: white;
+    font-size: large;
+
+}
+
+.footer-p {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-size: small;
+}
+
+.todoText {
+    margin-left: 10%;
+}
+
+#box {
+    margin-top: 15px;
+}
+
+#removeMeButton {
+    margin-right: 20px;
+    background-color: #f3d5d5;
+    border-radius: 5px;
+    border: 0px;
+    padding: 4px, 4px, 4px, 4px;
+    color: white;
+}
+
+#removeMeButton:hover {
+    margin-right: 20px;
+    background-color: #db9d9d;
+    border-radius: 5px;
+    border: 0px;
+    padding: 10px, 10px, 10px, 10px;
+    color: white;
+}
+
+.spanText {
+    margin-right: 20px;
+}
+
+.row {
+    padding-bottom: 10px;
+}
